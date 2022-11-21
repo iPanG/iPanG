@@ -1,1 +1,1 @@
-DEvOPS / SRE / JS / TS / React 
+DEvOPS / SRE
